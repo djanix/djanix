@@ -2,7 +2,7 @@
 
 ## Director Of Engineering at Zinnia | Software Engineer | Team Lead
 
-I am a full-stack software developer based in Montreal, Canada with over 13 years of professional experience focused on
+I am a full-stack software developer with over 13 years of professional experience focused on
 delivering business value by aligning engineering and product vision. I focus on non-functional requirements, system
 observability, and best practices within the engineering team to increase delivery velocity. Through the years, I
 acquired experience driving the architecture direction while allowing the team and product to scale from a startup
