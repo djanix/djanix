@@ -2,9 +2,14 @@
 
 ## Director Of Engineering at Zinnia | Software Engineer | Team Lead
 
-I am a full stack software developer based in Montreal, Canada. I am a big fan of everything programming related, from
-functional programming to web design and performance optimization. What I love about web development is that everything
-is in constant evolution. There's always something new to try and different ways to become a better developer.
+I am a full-stack software developer based in Montreal, Canada with over 13 years of professional experience focused on
+delivering business value by aligning engineering and product vision. I focus on non-functional requirements, system
+observability, and best practices within the engineering team to increase delivery velocity. Through the years, I
+acquired experience driving the architecture direction while allowing the team and product to scale from a startup
+mindset into a well-established company.
+
+If you’re looking into an individual contributor to be hands on the project or someone leading a team and focusing on
+high level strategic initiatives, feel free to reach out!
 
 * 🌍 I'm based in Montreal, Canada
 * 🖥️ See my portfolio at [janicbeauchemin.com](http://janicbeauchemin.com)
