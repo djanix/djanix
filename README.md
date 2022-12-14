@@ -8,8 +8,8 @@ observability, and best practices within the engineering team to increase delive
 acquired experience driving the architecture direction while allowing the team and product to scale from a startup
 mindset into a well-established company.
 
-If you’re looking into an individual contributor to be hands on the project or someone leading a team and focusing on
-high level strategic initiatives, feel free to reach out!
+[//]: # (If you’re looking into an individual contributor to be hands on the project or someone leading a team and focusing on)
+[//]: # (high level strategic initiatives, feel free to reach out!)
 
 * 🌍 I'm based in Montreal, Canada
 * 🖥️ See my portfolio at [janicbeauchemin.com](http://janicbeauchemin.com)
