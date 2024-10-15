@@ -2,11 +2,8 @@
 
 ## Director Of Engineering at Zinnia | Software Engineer | Team Lead
 
-I am a full-stack software developer with over 13 years of professional experience focused on
-delivering business value by aligning engineering and product vision. I focus on non-functional requirements, system
-observability, and best practices within the engineering team to increase delivery velocity. Through the years, I
-acquired experience driving the architecture direction while allowing the team and product to scale from a startup
-mindset into a well-established company.
+I am a software developer and team leader based in Montreal, Canada, with over 15 years of professional experience. I’m focused on delivering business value by aligning engineering direction and product vision. Through the years, I acquired experience driving the architecture direction while allowing the team and product to scale from a startup mindset into a well-established company.
+
 
 [//]: # (If you’re looking into an individual contributor to be hands on the project or someone leading a team and focusing on)
 [//]: # (high level strategic initiatives, feel free to reach out!)
@@ -51,6 +48,7 @@ mindset into a well-established company.
     <a href="https://deno.land/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/deno.svg" alt="Deno" height="50" /></a>  
     <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
     <a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>  
+    <a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" /></a>  
     <a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
     <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
     <a href="https://mochajs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mocha.png" alt="Mocha" height="50" /></a>  
